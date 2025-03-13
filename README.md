@@ -23,7 +23,7 @@ The Student Information Management System is a tree-based database designed to e
 
 To run the program, provide the input file "students.data.txt" containing the students data and Run the Program.c file:
 
-![Alt text](FromTubasToSalfit.png)
+![Alt text](Menu.png)
 
 
 ## Contact
